@@ -13,7 +13,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs?username=yukimura-manase&show_icons=true&locale=en&layout=compact)
 
 <h3 align="left">Languages and Tools:</h3>
-![](https://skillicons.dev/icons?i=html,css,js,photoshop,figma,illustrator)
+![](https://skillicons.dev/icons?i=html,css,js,ps,figma,ai)
 
 <!--
 **TakemiIchihara/TakemiIchihara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
