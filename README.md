@@ -1,20 +1,32 @@
 ## Hi there 👋
 
+  <h1 align="center" style="background-color: blue;">I'm Takemi Ichihara</h1>
+  <h3 align="center">I am a web designer and developer with three years of professional experience, creating products that bring ease, care, and peace to people's lives.</h3>
+<table>
+  <tr>
+    <td>
+      <img src="https://github.com/user-attachments/assets/7d2dc6d0-ac0d-46c3-8144-0762e67c7749" width="500px">
+    </td>
+    <td>
+      <h3>Languages and Tools:</h3>
+      <img src="https://skillicons.dev/icons?i=html,css,js,figma,ai,ps" width="350px"><br><br><br>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yukimura-manase&show_icons=true&locale=en&layout=compact" width="350px">
+    </td>
+  </tr>
+</table>
 
-<h1 align="center">Hi 👋, I'm Takemi Ichihara</h1>
-<h3 align="center">I am a web designer and developer with three years of professional experience, creating products that bring ease, care, and peace to people's lives.</h3>
+![GitHub followers](https://img.shields.io/github/followers/yukimura-manase?style=social)
+![GitHub stars](https://img.shields.io/github/stars/yukimura-manase?style=social)
+![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=yukimura-manase&theme=github)
 
-- 🌱 I’m currently learning **React**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+  
+  - 🌱 I’m currently learning **React**
+  
+  <h3 align="left">Connect with me:</h3>
+  <p align="left">
+  </p>
 
-![](https://github-readme-stats.vercel.app/api/top-langs?username=yukimura-manase&show_icons=true&locale=en&layout=compact)
-
-<h3 align="left">Languages and Tools:</h3>
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ps,figma,ai)](https://skillicons.dev)
-![](https://skillicons.dev/icons?i=html,css,js,typescript,python,php)
 
 <!--
 **TakemiIchihara/TakemiIchihara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
