@@ -1,7 +1,11 @@
-## Hi there 👋
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:ffcc00,100:ff6699&height=100&section=header&text=Welcome!&fontSize=30&fontColor=ffffff" width="100%">
 
-  <h1 align="center" style="background-color: blue;">I'm Takemi Ichihara</h1>
-  <h3 align="center">I am a web designer and developer with three years of professional experience, creating products that bring ease, care, and peace to people's lives.</h3>
+## Hi there 👋
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2b5876,100:4e4376&height=120&section=header">
+
+<h1 align="left" style="background-color: blue;">I'm Takemi Ichihara</h1>
+<h3 align="left">I am a web designer and developer with three years of professional experience, creating products that bring ease, care, and peace to people's lives.</h3>
+
 <table>
   <tr>
     <td>
