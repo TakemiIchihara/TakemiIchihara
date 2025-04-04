@@ -26,13 +26,20 @@
           animation: gradient 15s ease infinite;
           border-radius: 12px / 12px;
           display: flex;
+          flex-direction: column;
           justify-content: center;
           align-items: center;
           text-align: center;
         }
+
+        h1 {
+          font-size: 24px;
+          height: 8px;
+        }
       </style>
 
       <div class="container">
+        <h1>Purpose Statement:</h1>
         <p>I am a web designer and developer with three years of professional experience,<br /> creating products that bring ease, care, and peace to people's lives.</p>
       </div>
     </div>
