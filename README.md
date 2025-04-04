@@ -2,7 +2,7 @@
 
 <br><br>
 
-
+![](element1.svg)
 <div align="center">
   <img align="" src="https://capsule-render.vercel.app/api?type=speech&height=150&color=gradient&text=I'm%20Takemi!&fontAlign=20&animation=fadeIn&fontAlignY=41&reversal=true&fontSize=45" width="45%">
   <img align="left" src="https://github.com/user-attachments/assets/7d2dc6d0-ac0d-46c3-8144-0762e67c7749" width="430px">
