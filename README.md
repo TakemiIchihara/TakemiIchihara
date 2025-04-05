@@ -64,13 +64,7 @@
 
 [![Portfolio Repo](https://img.shields.io/badge/Portfolio-%23293051?style=flat&logo=github&logoColor=white)](https://github.com/TakemiIchihara/GwenStefani_AlbumSite)
 
-<img src="https://skillicons.dev/icons?i=linkedin,css,js,figma,ai,ps" height="45px"/>
-
-
-<div align="center">
-  <br><br>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=500&size=24&pause=1500&duration=2500&color=DCB818&background=293051&center=true&vCenter=true&lines=Welcome+to+my+GitHub!;I'm+a+web+developer!;Let's+build+something+cool!" width="62%" height="45px"/>
-</div>
+<img src="https://skillicons.dev/icons?i=linkedin" height="45px"/>
 
 > [!NOTE]
 > You can reach me through this gmail address 📫:
@@ -83,6 +77,10 @@ tkmIchihara@gmail.com
 ![Instagram](#)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:EF959D,25:A9892F,75:1B9AAA,100:293051&height=120&section=footer" width="100%"/>
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=500&size=24&pause=1500&duration=2500&color=DCB818&background=293051&center=true&vCenter=true&lines=Welcome+to+my+GitHub!;I'm+a+web+developer!;Let's+build+something+cool!" width="95%" height="45px"/>
+</div>
 
 <!--
 **TakemiIchihara/TakemiIchihara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
