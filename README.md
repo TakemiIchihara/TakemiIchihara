@@ -34,14 +34,12 @@
   ```
 </p>
 <br />
-<br />
 
 <!-- Abut my skills -->
 
 ## 🌿Skills  
 ### Languages and Tools I use: &nbsp;&nbsp; <img src="https://skillicons.dev/icons?i=html,css,js,figma,ai,ps" height="45px"/>
-### Languages and Tools I have touched on: &nbsp;&nbsp; <img src="https://skillicons.dev/icons?i=react,swift,python,java,mysql" height="45px" />
-<br />
+### Languages and Tools I have touched on: &nbsp;&nbsp; <img src="https://skillicons.dev/icons?i=react,swift,py,java,mysql" height="45px" />
 <br />
 
 <!-- My purpose statement -->
@@ -49,7 +47,6 @@
 ## 🌊Purpose Statement
 
 <img align="center" src="element1.svg" width="100%">
-<br />
 <br />
 
 <!-- A little random information -->
@@ -59,8 +56,6 @@
 > Directly translated to "*All Phenomena are Impermanent*" <br />
 > It deeply connected with a Buddhism sense highlights the ephemeral nature of reality.<br />
 > This is a piece of a reminder to myself that cherish every moment and challenge and be grateful with a mindful approach to life.
-
-<br />
 <br />
 
 ```md
@@ -68,6 +63,8 @@
 ```
 
 [![Portfolio Repo](https://img.shields.io/badge/Portfolio-%23293051?style=flat&logo=github&logoColor=white)](https://github.com/TakemiIchihara/GwenStefani_AlbumSite)
+
+<img src="https://skillicons.dev/icons?i=linkedin,css,js,figma,ai,ps" height="45px"/>
 
 
 <div align="center">
@@ -80,11 +77,12 @@
 ```shell
 tkmIchihara@gmail.com
 ```
+
 ![Behance Account](#)
 ![LinkedIn](#)
 ![Instagram](#)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:293051,100:A9892F&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:EF959D,25:A9892F,75:1B9AAA,100:293051&height=120&section=footer" width="100%"/>
 
 <!--
 **TakemiIchihara/TakemiIchihara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
