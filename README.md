@@ -67,6 +67,9 @@
 ⋆｡°✩ I believe in creating experiences that breathe simplicity and soul. ✩°｡⋆
 ```
 
+[![Portfolio Repo](https://img.shields.io/badge/Portfolio-%23293051?style=flat&logo=github&logoColor=white)](https://github.com/TakemiIchihara/GwenStefani_AlbumSite)
+
+
 <div align="center">
   <br><br>
   <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=500&size=24&pause=1500&duration=2500&color=DCB818&background=293051&center=true&vCenter=true&lines=Welcome+to+my+GitHub!;I'm+a+web+developer!;Let's+build+something+cool!" width="62%" height="45px"/>
