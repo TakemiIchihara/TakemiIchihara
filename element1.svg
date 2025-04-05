@@ -18,10 +18,10 @@
         .container {
           font-family: Roboto, Helvetica, Arial, sans-serif;
           color: white;
-          font-size: 18px;
+          font-size: 2vh;
           width: 100%;
           height: 175px;
-          background: linear-gradient(-45deg, #1A202C, #173A2B, #CAA916, #FCF3E3);
+          background: linear-gradient(-45deg, #293051, #1B9AAA, #A9892F, #EF959D);
           background-size: 350%;
           animation: gradient 15s ease infinite;
           border-radius: 12px / 12px;
@@ -36,11 +36,24 @@
           font-size: 24px;
           height: 8px;
         }
+        #smaller-screen {
+            display: none;
+          }
+        
+        @media(max-width: 390px) {
+          #bigger-screen {
+            display: none;
+          }
+          #smaller-screen {
+            display: block;
+          }
+        }
       </style>
 
       <div class="container">
         <h1>Purpose Statement:</h1>
-        <p>I am a web designer and developer with three years of professional experience,<br /> creating products that bring ease, care, and peace to people's lives.</p>
+        <p id="bigger-screen">I am a web designer and developer with three years of professional experience,<br /> creating products that bring ease, care, and peace to people's lives.</p>
+        <p id="smaller-screen">I am a web designer and developer with three years of<br />professional experience, creating products that<br />bring ease, care, and peace to people's lives.</p>
       </div>
     </div>
   </foreignObject>
