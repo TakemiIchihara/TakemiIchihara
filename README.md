@@ -3,7 +3,7 @@
 <!-- top part with bubbles and a bannar -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=speech&height=150&color=0:EF959D,25:A9892F,75:1B9AAA,100:293051&reversal=true&animation=fadeIn&fontAlign=50&fontAlignY=42&fontSize=40&fontColor=F7F7F2&text=I'm%20Takemi%20!%20-%20ようこそ！" width="95%" />
-  <img align="left" src="https://github.com/user-attachments/assets/7d2dc6d0-ac0d-46c3-8144-0762e67c7749" width="350px" />
+  <img align="left" src="https://github.com/user-attachments/assets/7d2dc6d0-ac0d-46c3-8144-0762e67c7749" width="400px" />
 </p>
 
 <!-- abut me -->
