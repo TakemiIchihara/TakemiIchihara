@@ -38,8 +38,9 @@
 <!-- Abut my skills -->
 
 ## 🌿Skills  
-### Languages and Tools I use: &nbsp;&nbsp; <img src="https://skillicons.dev/icons?i=html,css,js,figma,ai,ps" height="45px"/>
-### Languages and Tools I have touched on: &nbsp;&nbsp; <img src="https://skillicons.dev/icons?i=react,swift,py,java,mysql" height="45px" />
+>### Languages and Tools I use: &nbsp;&nbsp; <img src="https://skillicons.dev/icons?i=html,css,js,figma,ai,ps" height="45px"/>
+
+>### Languages and Tools I have touched on: &nbsp;&nbsp; <img src="https://skillicons.dev/icons?i=react,swift,py,java,mysql" height="45px" />
 <br />
 
 <!-- My purpose statement -->
@@ -61,20 +62,20 @@
 ```md
 ⋆｡°✩ I believe in creating experiences that breathe simplicity and soul. ✩°｡⋆
 ```
+## 💎 My Projects
+>[![Portfolio Repo](https://img.shields.io/badge/Portfolio-%23293051?style=flat&logo=github&logoColor=white)](https://github.com/TakemiIchihara/GwenStefani_AlbumSite)
 
-[![Portfolio Repo](https://img.shields.io/badge/Portfolio-%23293051?style=flat&logo=github&logoColor=white)](https://github.com/TakemiIchihara/GwenStefani_AlbumSite)
-
-<img src="https://skillicons.dev/icons?i=linkedin" height="45px"/>
+>[![Portfolio Repo](https://img.shields.io/badge/Portfolio-%23293051?style=flat&logo=github&logoColor=white)](https://github.com/TakemiIchihara/JapanBasedRetailer_Website )
 
 > [!NOTE]
-> You can reach me through this gmail address 📫:
-```shell
-tkmIchihara@gmail.com
-```
-
-![Behance Account](#)
-![LinkedIn](#)
-![Instagram](#)
+> ### Let's Stay Connected
+> 📫 Gmail address:
+>```shell
+>tkmIchihara@gmail.com
+>```
+><img src="https://skillicons.dev/icons?i=linkedin" height="45px"/>
+><img src="behance-icon.svg" height="45px"/>
+> 
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:EF959D,25:A9892F,75:1B9AAA,100:293051&height=120&section=footer" width="100%"/>
 
