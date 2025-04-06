@@ -17,19 +17,18 @@
 <p width="50%">
   
   ```console
-    🦋 About Me 🦋
-    -------------------------------------------------------
-    📘 (Major) Graphic Information Technology
-    📎 (Focus) Full-Stack Web Development
-    🎓 Arizona State University
-    👨‍💻 UI prototype designing, Web development
-    🪞 Interest in user experience
-    🎗️ Volunteer for a Japanese Conversational class
-    🚹 
-    🎬 Lost in Translation
-    🎤 Pop/R&B/
-    🍣 Sushi is my favourite food
-    --------------------------------------------------------
+  --------------------------------------------------
+  📘 (Major) Graphic Information Technology
+  📎 (Focus) Full-Stack Web Development
+  🎓 Arizona State University
+  👨‍💻 UI prototype designing, Web development
+  🪞 Interest in user experience
+  🎗️ Volunteer for a Japanese Conversational class
+  🚹 
+  🎬 Lost in Translation
+  🎤 Pop/R&B/
+  🍣 Sushi is my favourite food
+  --------------------------------------------------
 
   ```
 </p>
