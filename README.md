@@ -70,16 +70,16 @@
 > [!NOTE]
 > ### Let's Stay Connected
 > 📫 Gmail address:
->```shell
->tkmIchihara@gmail.com
->```
-><a href="https://www.linkedin.com/in/takemi-ichihara">
->  <img src="https://skillicons.dev/icons?i=linkedin" width="45px" />
-></a>
+> ```shell
+> tkmIchihara@gmail.com
+> ```
+> <a href="https://www.linkedin.com/in/takemi-ichihara">
+>   <img src="https://skillicons.dev/icons?i=linkedin" width="45px" />
+> </a>
 > &nbsp;&nbsp;
-><a href="https://www.behance.net/takemiichihara2">
+> <a href="https://www.behance.net/takemiichihara2">
 >  <img src="behance-icon.svg" width="45px" />
-></a>
+> </a>
 >
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:EF959D,25:A9892F,75:1B9AAA,100:293051&height=120&section=footer" width="100%"/>
