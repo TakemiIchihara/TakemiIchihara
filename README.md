@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi There 👋
 <br />
 <!-- top part with bubbles and a bannar -->
 <p align="center">
@@ -6,7 +6,7 @@
   <img align="left" src="https://github.com/user-attachments/assets/7d2dc6d0-ac0d-46c3-8144-0762e67c7749" width="480px" />
 </p>
 
-<!-- Abut me -->
+<!-- abut me -->
 <div width="50%" align="center">
   
   ```console
@@ -35,23 +35,25 @@
 </p>
 <br />
 
-<!-- Abut my skills -->
+<!-- abut my skills -->
 
-## 🌿Skills  
->### Languages and Tools I use: &nbsp;&nbsp; <img src="https://skillicons.dev/icons?i=html,css,js,figma,ai,ps" height="45px"/>
+## 🌿 Skills  
+> ### Main languages and tools I use: &nbsp;&nbsp; <img src="https://skillicons.dev/icons?i=html,css,js,figma,ai,ps" height="45px"/>
 
->### Languages and Tools I have touched on: &nbsp;&nbsp; <img src="https://skillicons.dev/icons?i=react,swift,py,java,mysql" height="45px" />
+> ### Lightly exposed languages and tools: &nbsp;&nbsp; <img src="https://skillicons.dev/icons?i=react,swift,py,java,mysql" height="45px" />
 <br />
 
-<!-- My purpose statement -->
+<!-- my purpose statement -->
 
-## 🌊Purpose Statement
-
+## 🌊 About Me
 <img align="center" src="element1.svg" width="100%">
+
+> <h3 height="45px">Language usage: </h3>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=TakemiIchihara&show_icons=true&locale=en&layout=compact&theme=dark" height="150px" />
 <br />
 
-<!-- A little random information -->
-## 🕊️ My favourite Quote
+<!-- a little random information -->
+## 🕊️ My Favourite Quote
 > *諸行無常の鐘の音*
 
 > Directly translated to "*All Phenomena are Impermanent*" <br />
@@ -62,17 +64,25 @@
 ```md
 ⋆｡°✩ I believe in creating experiences that breathe simplicity and soul. ✩°｡⋆
 ```
+<br />
+
+<!-- attaching links to repositories to my projects -->
 ## 💎 My Projects
 >[![Portfolio Repo](https://img.shields.io/badge/Portfolio-%23293051?style=flat&logo=github&logoColor=white)](https://github.com/TakemiIchihara/GwenStefani_AlbumSite)
 
 >[![Portfolio Repo](https://img.shields.io/badge/Portfolio-%23293051?style=flat&logo=github&logoColor=white)](https://github.com/TakemiIchihara/JapanBasedRetailer_Website)
+<br />
 
+<!-- ways to get in touch with me -->
 > [!NOTE]
-> ### Let's Stay Connected
-> 📫 Gmail address:
+> 🤝 Let's Stay Connected
+> ### 📫 Gmail address:
 > ```shell
 > tkmIchihara@gmail.com
 > ```
+>
+> ### 🦋 Social Medias 🦋 <br />
+>
 > <a href="https://www.linkedin.com/in/takemi-ichihara">
 >   <img src="https://skillicons.dev/icons?i=linkedin" width="45px" />
 > </a>
@@ -82,6 +92,7 @@
 > </a>
 >
 
+<!-- footer -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:EF959D,25:A9892F,75:1B9AAA,100:293051&height=120&section=footer" width="100%"/>
 
 <div align="center">
@@ -89,10 +100,6 @@
 </div>
 
 <!--
-**TakemiIchihara/TakemiIchihara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&color=FF6699&center=false&vCenter=true&width=500&lines=Hello,+I'm+Takemi!;Welcome+to+my+GitHub!" />
-Here are some ideas to get you started:
-&nbsp;&nbsp;&nbsp;</img>
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
