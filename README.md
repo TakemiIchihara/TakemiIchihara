@@ -24,9 +24,8 @@
   👨‍💻 UI prototype designing, Web development
   🪞 Interest in user experience
   🎗️ Volunteer for a Japanese Conversational class
-  🚹 
   🎬 Lost in Translation
-  🎤 Pop/R&B/
+  🎤 Pop/R&B/70'~80's Jpop
   🍣 Sushi is my favourite food
   --------------------------------------------------
 
@@ -57,20 +56,16 @@
 > *諸行無常の鐘の音*
 
 > Directly translated to "*All Phenomena are Impermanent*" <br />
-> It deeply connected with a Buddhism sense highlights the ephemeral nature of reality.<br />
-> This is a piece of a reminder to myself that cherish every moment and challenge and be grateful with a mindful approach to life.
-<br />
-
-```md
-⋆｡°✩ I believe in creating experiences that breathe simplicity and soul. ✩°｡⋆
-```
+> This is a piece of a reminder to myself of a mindful approach to life as to cherish every moment and challenge and be grateful.
 <br />
 
 <!-- attaching links to repositories to my projects -->
 ## 💎 My Projects
->[![Portfolio Repo](https://img.shields.io/badge/Portfolio-%23293051?style=flat&logo=github&logoColor=white)](https://github.com/TakemiIchihara/GwenStefani_AlbumSite)
+> ### Contributing to a $160 Million Icon: Designing Gwen Stefani's Anniversary Website - [![Portfolio Repo](https://img.shields.io/badge/Portfolio-%23293051?style=flat&logo=github&logoColor=white)](https://github.com/TakemiIchihara/GwenStefani_AlbumSite)
 
->[![Portfolio Repo](https://img.shields.io/badge/Portfolio-%23293051?style=flat&logo=github&logoColor=white)](https://github.com/TakemiIchihara/JapanBasedRetailer_Website)
+> ### From Confusion to Clarity: Reimagining a Brewery’s Digital Experience - [![Portfolio Repo](https://img.shields.io/badge/Portfolio-%23293051?style=flat&logo=github&logoColor=white)](https://github.com/TakemiIchihara/JapanBasedRetailer_Website)
+
+> ### From Brochure to Browser: Launching Miyakawa’s First Website - [![Portfolio Repo](https://img.shields.io/badge/Portfolio-%23293051?style=flat&logo=github&logoColor=white)](https://github.com/TakemiIchihara/JapanBasedRetailer_Website)
 <br />
 
 <!-- ways to get in touch with me -->
