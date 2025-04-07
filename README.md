@@ -1,4 +1,4 @@
-## Hi There 👋
+![takemi_ichihara_logo-horizontal-color](https://github.com/user-attachments/assets/853c8574-74ef-49c2-b093-ec4eea120197)## Hi There 👋
 <br />
 <!-- top part with bubbles and a bannar -->
 <p align="center">
@@ -61,12 +61,17 @@
 
 <!-- attaching links to repositories to my projects -->
 ## 💎 My Projects
-> ### Contributing to a $160 Million Icon: Designing Gwen Stefani's Anniversary Website - [![Portfolio Repo](https://img.shields.io/badge/Portfolio-%23293051?style=flat&logo=github&logoColor=white)](https://github.com/TakemiIchihara/GwenStefani_AlbumSite)
+> ### Contributing to a $160 Million Icon: Designing Gwen Stefani's Anniversary Website <br />
+> [![Portfolio Repo](https://img.shields.io/badge/Portfolio-%23293051?style=flat&logo=github&logoColor=white)](https://github.com/TakemiIchihara/GwenStefani_AlbumSite) &nbsp;&nbsp; [![Website](https://img.shields.io/badge/Website-Visit-A9892F?style=for-the-badge&labelColor=293051)](https://takemiichihara.github.io/GwenStefani_AlbumSite/)
 
-> ### From Confusion to Clarity: Reimagining a Brewery’s Digital Experience - [![Portfolio Repo](https://img.shields.io/badge/Portfolio-%23293051?style=flat&logo=github&logoColor=white)](https://github.com/TakemiIchihara/FourSilos_RedesignedWebsite)
+> ### From Confusion to Clarity: Reimagining a Brewery’s Digital Experience <br />
+> [![Portfolio Repo](https://img.shields.io/badge/Portfolio-%23293051?style=flat&logo=github&logoColor=white)](https://github.com/TakemiIchihara/FourSilos_RedesignedWebsite) &nbsp;&nbsp; [![Website](https://img.shields.io/badge/Website-Visit-A9892F?style=for-the-badge&labelColor=293051)](https://www.figma.com/proto/8rrByrwtD0JdkdIihfa4YS/Untitled?t=mApBAI0HlHLExGVU-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&node-id=4-2&starting-point-node-id=4%3A2)
 
-> ### From Brochure to Browser: Launching Miyakawa’s First Website - [![Portfolio Repo](https://img.shields.io/badge/Portfolio-%23293051?style=flat&logo=github&logoColor=white)](https://github.com/TakemiIchihara/JapanBasedRetailer_Website)
+> ### From Brochure to Browser: Launching Miyakawa’s First Website <br />
+> [![Portfolio Repo](https://img.shields.io/badge/Portfolio-%23293051?style=flat&logo=github&logoColor=white)](https://github.com/TakemiIchihara/JapanBasedRetailer_Website) &nbsp;&nbsp; [![Website](https://img.shields.io/badge/Website-Visit-A9892F?style=for-the-badge&labelColor=293051)](https://takemiichihara.github.io/JapanBasedRetailer_Website/index.html)
 <br />
+<br />
+
 
 <!-- ways to get in touch with me -->
 > [!NOTE]
@@ -87,11 +92,47 @@
 > </a>
 >
 
+![Uploading takemi_ichihara<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 309.56 73.54">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #a9892f;
+      }
+
+      .cls-2 {
+        font-family: Montserrat-Bold, Montserrat;
+        font-size: 34.58px;
+        font-weight: 700;
+      }
+
+      .cls-2, .cls-3 {
+        fill: #293051;
+      }
+
+      .cls-4 {
+        letter-spacing: -.03em;
+      }
+    </style>
+  </defs>
+  <g>
+    <polygon class="cls-3" points="57.93 4.98 47.24 16.26 32.63 16.26 32.63 64.27 19.05 64.27 19.05 16.26 0 16.26 0 4.98 57.93 4.98"/>
+    <polygon class="cls-3" points="35.53 32.68 61.79 4.98 77.03 4.98 52.47 31.4 78.47 64.27 62.47 64.27 42.8 41.33 35.53 49.28 35.53 32.68"/>
+    <polygon class="cls-1" points="59.73 31.4 84.29 4.97 104.76 25.43 96.78 33.57 84.66 21.23 75.8 31.4 93.94 54.25 85.74 64.26 59.73 31.4"/>
+    <polygon class="cls-1" points="133.8 31.41 109.24 4.98 98.44 15.78 106.41 23.75 108.87 21.24 117.73 31.41 91.65 64.27 107.79 64.27 133.8 31.41"/>
+  </g>
+  <g>
+    <text class="cls-2" transform="translate(134.89 29.39) scale(.93 1)"><tspan class="cls-4" x="0" y="0">T</tspan><tspan x="20.16" y="0">AKEMI</tspan></text>
+    <text class="cls-2" transform="translate(139.56 64.35) scale(.93 1)"><tspan x="0" y="0">ICHIHARA</tspan></text>
+  </g>
+</svg>_logo-horizontal-color.svg…]()
+
+
 <!-- footer -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:EF959D,25:A9892F,75:1B9AAA,100:293051&height=120&section=footer" width="100%"/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=500&size=24&pause=1500&duration=2500&color=DCB818&background=293051&center=true&vCenter=true&lines=Welcome+to+my+GitHub!;I'm+a+web+developer!;Let's+build+something+cool!" width="95%" height="45px"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=500&size=24&pause=1500&duration=2500&color=DCB818&background=293051&center=true&vCenter=true&lines=Thank+You+for+Reading+My+GitHub+Page!;Let's+build+something+cool!;Bye+〜+👋" width="95%" height="45px"/>
 </div>
 
 <!--
