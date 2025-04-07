@@ -1,4 +1,4 @@
-![takemi_ichihara_logo-horizontal-color](https://github.com/user-attachments/assets/853c8574-74ef-49c2-b093-ec4eea120197)## Hi There 👋
+## Hi There 👋
 <br />
 <!-- top part with bubbles and a bannar -->
 <p align="center">
@@ -91,42 +91,13 @@
 >  <img src="behance-icon.svg" width="45px" />
 > </a>
 >
+> 
 
-![Uploading takemi_ichihara<?xml version="1.0" encoding="UTF-8"?>
-<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 309.56 73.54">
-  <defs>
-    <style>
-      .cls-1 {
-        fill: #a9892f;
-      }
+<br />
 
-      .cls-2 {
-        font-family: Montserrat-Bold, Montserrat;
-        font-size: 34.58px;
-        font-weight: 700;
-      }
-
-      .cls-2, .cls-3 {
-        fill: #293051;
-      }
-
-      .cls-4 {
-        letter-spacing: -.03em;
-      }
-    </style>
-  </defs>
-  <g>
-    <polygon class="cls-3" points="57.93 4.98 47.24 16.26 32.63 16.26 32.63 64.27 19.05 64.27 19.05 16.26 0 16.26 0 4.98 57.93 4.98"/>
-    <polygon class="cls-3" points="35.53 32.68 61.79 4.98 77.03 4.98 52.47 31.4 78.47 64.27 62.47 64.27 42.8 41.33 35.53 49.28 35.53 32.68"/>
-    <polygon class="cls-1" points="59.73 31.4 84.29 4.97 104.76 25.43 96.78 33.57 84.66 21.23 75.8 31.4 93.94 54.25 85.74 64.26 59.73 31.4"/>
-    <polygon class="cls-1" points="133.8 31.41 109.24 4.98 98.44 15.78 106.41 23.75 108.87 21.24 117.73 31.41 91.65 64.27 107.79 64.27 133.8 31.41"/>
-  </g>
-  <g>
-    <text class="cls-2" transform="translate(134.89 29.39) scale(.93 1)"><tspan class="cls-4" x="0" y="0">T</tspan><tspan x="20.16" y="0">AKEMI</tspan></text>
-    <text class="cls-2" transform="translate(139.56 64.35) scale(.93 1)"><tspan x="0" y="0">ICHIHARA</tspan></text>
-  </g>
-</svg>_logo-horizontal-color.svg…]()
-
+<div align="center" width="75%">
+  <img  src="https://github.com/user-attachments/assets/853c8574-74ef-49c2-b093-ec4eea120197" width="60%">
+</div>
 
 <!-- footer -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:EF959D,25:A9892F,75:1B9AAA,100:293051&height=120&section=footer" width="100%"/>
@@ -134,16 +105,3 @@
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=500&size=24&pause=1500&duration=2500&color=DCB818&background=293051&center=true&vCenter=true&lines=Thank+You+for+Reading+My+GitHub+Page!;Let's+build+something+cool!;Bye+〜+👋" width="95%" height="45px"/>
 </div>
-
-<!--
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-<h3 align="left">Language usage:</h3>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=TakemiIchihara&show_icons=true&locale=en&layout=compact&theme=dark" height="600px" />
--->
