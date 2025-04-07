@@ -63,7 +63,7 @@
 ## 💎 My Projects
 > ### Contributing to a $160 Million Icon: Designing Gwen Stefani's Anniversary Website - [![Portfolio Repo](https://img.shields.io/badge/Portfolio-%23293051?style=flat&logo=github&logoColor=white)](https://github.com/TakemiIchihara/GwenStefani_AlbumSite)
 
-> ### From Confusion to Clarity: Reimagining a Brewery’s Digital Experience - [![Portfolio Repo](https://img.shields.io/badge/Portfolio-%23293051?style=flat&logo=github&logoColor=white)](https://github.com/TakemiIchihara/JapanBasedRetailer_Website)
+> ### From Confusion to Clarity: Reimagining a Brewery’s Digital Experience - [![Portfolio Repo](https://img.shields.io/badge/Portfolio-%23293051?style=flat&logo=github&logoColor=white)](https://github.com/TakemiIchihara/FourSilos_RedesignedWebsite)
 
 > ### From Brochure to Browser: Launching Miyakawa’s First Website - [![Portfolio Repo](https://img.shields.io/badge/Portfolio-%23293051?style=flat&logo=github&logoColor=white)](https://github.com/TakemiIchihara/JapanBasedRetailer_Website)
 <br />
