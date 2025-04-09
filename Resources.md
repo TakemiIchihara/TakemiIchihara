@@ -1,9 +1,13 @@
-# Guidance of Creating a File with MarkDown
+# 🦋 Guidance of Creating a File with MarkDown 🦋
 
 Editing README file is such an unpleasant experience with its inflexibility in design.<br />
 Here is a little note of some of the design techniques that I learned for future references.
 
-[HTML Tags](#your-friends)
+```javascript
+Jump to the bottom of the page ↓
+```
+[Your friends](#your-friends)
+
 ## Headings
 ```md
   #    == <h1>
@@ -51,7 +55,7 @@ You can make a code quote wrapping the code with "**\```**"
 This is a code quote
 ```
 >[!tip]
->You can dpecify the coding language by simply adding the name of the language right after the first &nbsp; ```
+>You can dpecify the coding language by simply adding the name of the language right after the first &nbsp; ``` (case insensitive)
 >```javascript
 >let greeting = "Hello, World!";
 >console.log(greeting);
@@ -89,6 +93,15 @@ This is a code quote
 
 > [!CAUTION]
 > Negative potential consequences of an action.
+
+## Hyper Link
+You can use \<a> to create a hyper link but here is a pro tip 💡
+
+>[!tip]
+>This will work interchangeably with what you want to achieve with \<a> tag!
+>```md
+>![[alt tag]image file/api url](url/path)
+>```
 
 
 ## Your friends
