@@ -20,7 +20,7 @@ Here is a little note of some of the design techniques that I learned for future
   <li> *&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: italic</li>
   <li> **&nbsp;&nbsp;&nbsp;&nbsp;: bold</li>
   <li> ***&nbsp;&nbsp;: italic & bold</li>
-  <li> <ins>&nbsp;: underline
+  <li> ins with <> blanket &nbsp;: underline</li>
 </ul>
 
 ## HTML tags
@@ -40,29 +40,78 @@ However, what MD does not allow you to do is **inline styling**
 >[!warning]
 >Somehow the align styling does not apply to images where you have to wrap the image in a **\<div>** first and style the \<div> as you want
 
+## Quotes
+### Text Quote
+You can make a text quote using &nbsp;"**\>**"
+> This is a quote
+
+### Code Quote
+You can make a code quote wrapping the code with "**\```**"
+```
+This is a code quote
+```
+>[!tip]
+>You can dpecify the coding language by simply adding the name of the language right after the first &nbsp; ```
+>```javascript
+>let greeting = "Hello, World!";
+>console.log(greeting);
+>```
+
+### Annotation
+```md
+> [!NOTE]  
+> Highlights information that users should take into account, even when skimming.
+
+> [!TIP]
+> Optional information to help a user be more successful.
+
+> [!IMPORTANT]  
+> Crucial information necessary for users to succeed.
+
+> [!WARNING]  
+> Critical content demanding immediate user attention due to potential risks.
+
+> [!CAUTION]
+> Negative potential consequences of an action.
+```
+
+> [!NOTE]  
+> Highlights information that users should take into account, even when skimming.
+
+> [!TIP]
+> Optional information to help a user be more successful.
+
+> [!IMPORTANT]  
+> Crucial information necessary for users to succeed.
+
+> [!WARNING]  
+> Critical content demanding immediate user attention due to potential risks.
+
+> [!CAUTION]
+> Negative potential consequences of an action.
+
 
 ## Your friends
 >**\<br />** is your best friend because you cannot break a line just simply hit the line.
 
 >**\&nbsp;** is your friend when you need a white space
 
+> <hr>
+<hr>
+
+
 >**\<!-- -->** is your friend when you wnat to leave a comment invisible to viewer
 
-## Good Resources for Visual Elements
-Adding SVGs is a great way to make your README fiile look fun and inviting✨ Here are some URLs to websites that 
+## Resources for Visual Elements
+Adding SVGs is a great way to make your README fiile look fun and inviting✨ Here are some URLs to helpful websites🧑‍💻🦋
 
->### Capsule Render
-```
-https://capsule-render.vercel.app
-```
+>### <a href="https://skillicons.dev">Skill Icons</a>
 
->### Endpoint Badge
-<a href="https://shields.io/badges/endpoint-badge">### Endpoint Badge</a>
+>### <a href="https://capsule-render.vercel.app">Capsule Render</a>
 
-behance
+>### <a href="https://shields.io/badges/endpoint-badge">Endpoint Badge</a>
 
-
-https://readme-typing-svg.herokuapp.com
+>### <a href="https://readme-typing-svg.herokuapp.com">Typing Animation</a>
 
 
 
