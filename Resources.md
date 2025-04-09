@@ -3,7 +3,7 @@
 Editing README file is such an unpleasant experience with its inflexibility in design.<br />
 Here is a little note of some of the design techniques that I learned for future references.
 
-[HTML Tags](#html-tage)
+[HTML Tags](#your-friends)
 ## Headings
 ```md
   #    == <h1>
@@ -96,9 +96,7 @@ This is a code quote
 
 >**\&nbsp;** is your friend when you need a white space
 
-> <hr>
-<hr>
-
+> **\<hr>** is your friend whe you want to divide segments with a border
 
 >**\<!-- -->** is your friend when you wnat to leave a comment invisible to viewer
 
