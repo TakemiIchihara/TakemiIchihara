@@ -103,5 +103,5 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:EF959D,25:A9892F,75:1B9AAA,100:293051&height=120&section=footer" width="100%"/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=500&size=24&pause=1500&duration=2500&color=DCB818&background=293051&center=true&vCenter=true&lines=Thank+You+for+Reading+My+GitHub+Page!;Let's+build+something+cool!;Bye+〜+👋" width="95%" height="45px"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=500&size=24&pause=1500&duration=2500&color=DCB818&background=293051&center=true&vCenter=true&lines=Thanks+for+Reading+My+GitHub+Page!;Let's+build+something+cool!;Bye+〜+👋" width="95%" height="45px"/>
 </div>
